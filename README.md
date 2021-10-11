@@ -12,7 +12,8 @@ A construção dos componentes foi feita com arrow function.
 
 Acessa diretamente os componentes com children.
 
-UseState
+Uso do useState
+
 Quando inicializa a aplicação, tudo que é inicializado é armazenado dentro de uma memória temporária.
 
 State serve para criar componentes, funções, efeitos dinâmicos, animações.
