@@ -12,12 +12,12 @@ A construção dos componentes foi feita com arrow function.
 
 Acessa diretamente os componentes com children.
 
-Uso do useState
+Uso do useState:
 
-Quando inicializa a aplicação, tudo que é inicializado é armazenado dentro de uma memória temporária.
+- Quando inicializa a aplicação, tudo que é inicializado é armazenado dentro de uma memória temporária.
 
-State serve para criar componentes, funções, efeitos dinâmicos, animações.
+- State serve para criar componentes, funções, efeitos dinâmicos, animações.
 
-State ajuda a dar vida a nossos componentes. 
+- State ajuda a dar vida a nossos componentes. 
 
 Modelos utilizados do Bootstrap: grupo de lista, card e button.
