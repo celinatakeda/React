@@ -1,9 +1,9 @@
 # Minha primeira aplicação com React
 
 Para criar projeto react digitar no terminal do node:
-
-- npx create-react-app react-dio
-
+```
+ npx create-react-app react-dio
+```
 Na aplicação foi construido os componentes Item, Card e Button.
 
 No caso do componente Item retorna uma lista.
